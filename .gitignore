@@ -4,5 +4,3 @@ data/raw/
 data/processed/
 .ipynb_checkpoints/
 __pycache__/
-
-flood_exposure.qgz
